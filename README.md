@@ -4,7 +4,7 @@ _**We will use Python and its different libraries to analyze the Uber Rides Data
 
 Dataset Link: https://media.geeksforgeeks.org/wp-content/uploads/20240919115958/UberDataset.csv
 
-**1. Importing Libraries**_
+**1. Importing Libraries**
 
 The analysis will be done using the following libraries : 
 
@@ -46,7 +46,7 @@ In this section, we will try to understand and compare all columns.
 
 (iv) Now, we will be comparing the two different categories along with the PURPOSE of the user.
 
-**_**Insights from the above count-plots : **_**
+_**Insights from the above count-plots:**_
 
 _-> Most of the rides are booked for business purpose._
 
